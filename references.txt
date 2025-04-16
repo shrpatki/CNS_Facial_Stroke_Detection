@@ -1,1 +1,2 @@
 https://github.com/timesler/facenet-pytorch : Face detection and cropping
+https://www.researchgate.net/publication/378640426_Early_stroke_disease_prediction_with_facial_features_using_convolutional_neural_network_model
